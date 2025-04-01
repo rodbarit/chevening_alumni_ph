@@ -15,9 +15,9 @@ type Alumnus = {
 };
 
 const alumniData: Alumnus[] = [
-  { id: 1, name: "John Doe", photo: "/john.jpg", school: "Oxford", course: "Public Policy", year: 2020, batch: "2019-2020", industry: "Government" },
-  { id: 2, name: "Jane Smith", photo: "/jane.jpg", school: "Cambridge", course: "Data Science", year: 2018, batch: "2017-2018", industry: "Technology" },
-  { id: 3, name: "Alice Brown", photo: "/alice.jpg", school: "Oxford", course: "Law", year: 2019, batch: "2018-2019", industry: "Law" },
+  { id: 1, name: "Rod Barit", photo: "/rod.jpg", school: "King's College London", course: "MSc Finance Analytics", year: 2024, batch: "2023-2024", industry: "Finance" },
+  { id: 2, name: "Erri Rojo", photo: "/erri.jpg", school: "University of Westminster", course: "MS Business of Film", year: 2024, batch: "2023-2024", industry: "Film" },
+  { id: 3, name: "Joshua Arrabaca", photo: "/josh.jpg", school: "University of St. Andrews", course: "Msc Data-Intensive Analysis", year: 2024, batch: "2023-2024", industry: "Technology" },
 ];
 
 export default function Home() {
