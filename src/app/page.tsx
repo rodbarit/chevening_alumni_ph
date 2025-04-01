@@ -32,11 +32,11 @@ const alumniData: Alumnus[] = [
   { id: 15, name: "Ferth Vandensteen Manaysay", photo: "/ferth_manaysay.jpg", school: "London School of Economics and Political Science", course: "Environmental Policy and Regulation MSc", year: 2024, batch: "2023-2024", industry: "Climate" },
   { id: 16, name: "Raymond John Naguit", photo: "/raymond_naguit.jpg", school: "London School of Hygiene and Tropical Medicine and London School of Economics", course: "Health Policy, Planning and Financing MSc", year: 2024, batch: "2023-2024", industry: "Health Policy, Planning, and Financing" },
   { id: 17, name: "Christian Edward Nuevo", photo: "/christian_nuevo.jpg", school: "Imperial College London", course: "MSc in Public Health", year: 2024, batch: "2023-2024", industry: "Health" },
-  { id: 18, name: "Henrielle Louise Omilda", photo: "/henrielle_omilda.jpg", school: "King's College London", course: "Digital Media and Culture MA", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
+  { id: 18, name: "Henrielle Louise Omolida", photo: "/henrielle_omolida.jpg", school: "King's College London", course: "Digital Asset and Media Management MA", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
   { id: 19, name: "Errianne Rojo", photo: "/errianne_rojo.jpg", school: "University of Westminster", course: "Business of Film MSc", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
   { id: 20, name: "John Carlo Timbol", photo: "/john_timbol.jpg", school: "University of Leeds", course: "Master of Public Health (International)", year: 2024, batch: "2023-2024", industry: "Health" },
   { id: 21, name: "Chelsea Ugay", photo: "/chelsea_ugay.jpg", school: "Queen's University Belfast", course: "MSc Advanced Food Safety", year: 2024, batch: "2023-2024", industry: "Health, Food Safety" },
-  { id: 22, name: "Jenina Rosanne Velaquez", photo: "/jenine_velasquez.jpg", school: "University of Edinburgh", course: "Human Rights LLM", year: 2024, batch: "2023-2024", industry: "Advanced Human Rights" },
+  { id: 22, name: "Jenin Rosanne Velaquez", photo: "/jenine_velasquez.jpg", school: "University of Edinburgh", course: "Human Rights LLM", year: 2024, batch: "2023-2024", industry: "Advanced Human Rights" },
 ];
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState<string>("");
