@@ -36,7 +36,7 @@ const alumniData: Alumnus[] = [
   { id: 19, name: "Errianne Rojo", photo: "/errianne_rojo.jpg", school: "University of Westminster", course: "Business of Film MSc", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
   { id: 20, name: "John Carlo Timbol", photo: "/john_timbol.jpg", school: "University of Leeds", course: "Master of Public Health (International)", year: 2024, batch: "2023-2024", industry: "Health" },
   { id: 21, name: "Chelsea Ugay", photo: "/chelsea_ugay.jpg", school: "Queen's University Belfast", course: "MSc Advanced Food Safety", year: 2024, batch: "2023-2024", industry: "Health, Food Safety" },
-  { id: 22, name: "Jenin Rosanne Velaquez", photo: "/jenine_velasquez.jpg", school: "University of Edinburgh", course: "Human Rights LLM", year: 2024, batch: "2023-2024", industry: "Advanced Human Rights" },
+  { id: 22, name: "Jenin Rosanne Velasquez", photo: "/jenin_velasquez.jpg", school: "University of Edinburgh", course: "Human Rights LLM", year: 2024, batch: "2023-2024", industry: "Advanced Human Rights" },
 ];
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState<string>("");
