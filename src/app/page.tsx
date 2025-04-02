@@ -15,11 +15,11 @@ type Alumnus = {
 };
 
 const alumniData: Alumnus[] = [
-  { id: 1, name: "Rod Christopher Barit", photo: "/rod_barit.jpg", school: "Kings College London", course: "Finance Analytics MSc", year: 2024, batch: "2023-2024", industry: "Finance, Data, Technology" },
+  { id: 1, name: "Rod Christopher Barit", photo: "/rod_barit.jpg", school: "King's College London", course: "Finance Analytics MSc", year: 2024, batch: "2023-2024", industry: "Finance, Data, Technology" },
   { id: 2, name: "Francis Joshua Arrabaca", photo: "/joshua_arrabaca.jpg", school: "University of St Andrews", course: "Data-Intensive Analysis MSc", year: 2024, batch: "2023-2024", industry: "Technology, Data" },
   { id: 3, name: "Nathan Elezer Bayasen", photo: "/nathan_bayasen.jpg", school: "SOAS, University of London", course: "International Finance and Development MSc", year: 2024, batch: "2023-2024", industry: "Finance, Government" },
   { id: 4, name: "Charles Fredrickson De Belen", photo: "/charles_debelen.jpg", school: "London School of Economics and Political Science", course: "Master of Public Policy", year: 2024, batch: "2023-2024", industry: "Law, Government" },
-  { id: 5, name: "Zara Marie Dy", photo: "/zara_dy.jpg", school: "Queen Mary University of London", course: "International Business Law LLM", year: 2024, batch: "2023-2024", industry: "Law, Shipping" },
+  { id: 5, name: "Zara Marie Dy", photo: "/zara_dy.jpg", school: "Queen Mary University of London", course: "International Shipping Law LLM", year: 2024, batch: "2023-2024", industry: "Law, Shipping and Climate" },
   { id: 6, name: "Rashida Edding", photo: "/rashida_edding.jpg", school: "SOAS, University of London", course: "Law and Gender LLM", year: 2024, batch: "2023-2024", industry: "Law, Human Rights" },
   { id: 7, name: "Anjelou Marie Estrella", photo: "/anjelou_estrella.jpg", school: "University of Sussex", course: "Entrepreneurship and Innovation MSc", year: 2024, batch: "2023-2024", industry: "Entrepreneurship" },
   { id: 8, name: "Napoleon Gonzales III", photo: "/napoleon_gonzales.jpg", school: "University of Westminster", course: "International Law LLM", year: 2024, batch: "2023-2024", industry: "Law, Immigration" },
@@ -31,9 +31,9 @@ const alumniData: Alumnus[] = [
   { id: 14, name: "Jaz Malonda", photo: "/jaz_malonda.jpg", school: "University of Sussex", course: "Media Practice for Development and Social Change MA", year: 2024, batch: "2023-2024", industry: "Development" },
   { id: 15, name: "Ferth Vandensteen Manaysay", photo: "/ferth_manaysay.jpg", school: "London School of Economics and Political Science", course: "Environmental Policy and Regulation MSc", year: 2024, batch: "2023-2024", industry: "Climate" },
   { id: 16, name: "Raymond John Naguit", photo: "/raymond_naguit.jpg", school: "London School of Hygiene and Tropical Medicine and London School of Economics", course: "Health Policy, Planning and Financing MSc", year: 2024, batch: "2023-2024", industry: "Health Policy, Planning, and Financing" },
-  { id: 17, name: "Christian Edward Nuevo", photo: "/christian_nuevo.jpg", school: "Imperial College London", course: "MSc in Public Health", year: 2024, batch: "2023-2024", industry: "Health" },
+  { id: 17, name: "Christian Edward Nuevo", photo: "/christian_nuevo.jpg", school: "Imperial College London", course: "Master of Public Health MPH", year: 2024, batch: "2023-2024", industry: "Health" },
   { id: 18, name: "Henrielle Louise Omolida", photo: "/henrielle_omolida.jpg", school: "King's College London", course: "Digital Asset and Media Management MA", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
-  { id: 19, name: "Errianne Rojo", photo: "/errianne_rojo.jpg", school: "University of Westminster", course: "Business of Film MSc", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
+  { id: 19, name: "Errianne Rojo", photo: "/errianne_rojo.jpg", school: "University of Westminster", course: "Business of Film MA", year: 2024, batch: "2023-2024", industry: "Arts and Creative Industry" },
   { id: 20, name: "John Carlo Timbol", photo: "/john_timbol.jpg", school: "University of Leeds", course: "Master of Public Health (International)", year: 2024, batch: "2023-2024", industry: "Health" },
   { id: 21, name: "Chelsea Ugay", photo: "/chelsea_ugay.jpg", school: "Queen's University Belfast", course: "MSc Advanced Food Safety", year: 2024, batch: "2023-2024", industry: "Health, Food Safety" },
   { id: 22, name: "Jenin Rosanne Velasquez", photo: "/jenin_velasquez.jpg", school: "University of Edinburgh", course: "Human Rights LLM", year: 2024, batch: "2023-2024", industry: "Advanced Human Rights" },
